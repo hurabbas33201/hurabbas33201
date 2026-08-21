@@ -148,10 +148,6 @@ fun_fact: "I believe every bug is just a lesson wearing a disguise 🐛✨"
 <img src="https://raw.githubusercontent.com/hurabbas33201/hurabbas33201/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </div>
 
-> ⚠️ **Setup note:** The snake animation above requires a one-time GitHub Actions setup.
-> 1. Create a repo named exactly `hurabbas33201` (your username) with a file `README.md` in it — this becomes your profile README.
-> 2. Add the workflow file `.github/workflows/snake.yml` (see snippet below) to that repo.
-> 3. Enable **Actions** in repo settings and run the workflow once. It will generate the `output` branch used above automatically.
 
 <details>
 <summary>📄 Click to view <code>snake.yml</code> workflow code</summary>
