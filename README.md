@@ -35,7 +35,7 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+##  About Me
 
 ```yaml
 name: "Hur Abbas"
@@ -44,17 +44,17 @@ university: "Government College University Faisalabad (GCUF)"
 location: "Pakistan"
 focus: ["Software Development", "Artificial Intelligence", "Open Source"]
 currently: "Building real-world projects & sharpening my problem-solving skills"
-fun_fact: "I believe every bug is just a lesson wearing a disguise 🐛✨"
+fun_fact: "I believe every bug is just a lesson wearing a disguise "
 ```
 
-- 🎓 Computer Science student passionate about **software development**, **AI**, and modern technologies  
-- 🌱 I enjoy learning new programming languages and building things that solve real problems  
-- 🚀 Always exploring, always improving — one commit at a time  
-- 💬 Ask me about **C++, OOP, Web Development, or Data Structures**
+-  Computer Science student passionate about **software development**, **AI**, and modern technologies  
+- I enjoy learning new programming languages and building things that solve real problems  
+-  Always exploring, always improving — one commit at a time  
+-  Ask me about **C++, OOP, Web Development, or Data Structures**
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -72,7 +72,7 @@ fun_fact: "I believe every bug is just a lesson wearing a disguise 🐛✨"
 <tr>
 <td valign="top" width="50%">
 
-### 💻 Skills
+###  Skills
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -86,7 +86,7 @@ fun_fact: "I believe every bug is just a lesson wearing a disguise 🐛✨"
 </td>
 <td valign="top" width="50%">
 
-### 📚 Currently Learning
+###  Currently Learning
 
 ![OOP](https://img.shields.io/badge/OOP%20(C++)-6A11CB?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-2575FC?style=for-the-badge&logo=python&logoColor=white)
@@ -100,7 +100,7 @@ fun_fact: "I believe every bug is just a lesson wearing a disguise 🐛✨"
 
 <br/>
 
-## 🎯 Interests
+##  Interests
 
 <div align="center">
 
@@ -115,7 +115,7 @@ fun_fact: "I believe every bug is just a lesson wearing a disguise 🐛✨"
 
 <br/>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -127,7 +127,7 @@ fun_fact: "I believe every bug is just a lesson wearing a disguise 🐛✨"
 
 
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/hurabbas33201/hurabbas33201/output/github-contribution-grid-snake-dark.svg" width="95%" />
@@ -173,28 +173,28 @@ jobs:
 
 
 
-## 🌟 Future Goals
+##  Future Goals
 
-- 🎯 Become a highly skilled **Software Engineer** and **AI Engineer**
-- 🌍 Contribute to impactful **open-source** projects
-- 📈 Master **Data Structures & Algorithms** and modern web technologies
-- 🤖 Build real-world **AI-powered applications**
-- 🏆 Compete in coding contests and grow as a problem solver
+-  Become a highly skilled **Software Engineer** and **AI Engineer**
+-  Contribute to impactful **open-source** projects
+-  Master **Data Structures & Algorithms** and modern web technologies
+-  Build real-world **AI-powered applications**
+-  Compete in coding contests and grow as a problem solver
 
 <br/>
 
-## 📫 Connect with Me
+##  Connect with Me
 
 <div align="center">
 
-<!-- 🔧 REPLACE: update email and portfolio links -->
+<!--  REPLACE: update email and portfolio links -->
 <a href="https://www.linkedin.com/in/hur-abbas-565543419">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your-email@example.com"> <!-- 🔧 REPLACE your-email@example.com -->
+<a href="mailto:your-email@example.com"> <!--  REPLACE your-email@example.com -->
   <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://your-portfolio-link.com"> <!-- 🔧 REPLACE with your portfolio URL -->
+<a href="https://your-portfolio-link.com"> <!--  REPLACE with your portfolio URL -->
   <img src="https://img.shields.io/badge/Portfolio-Visit-6A11CB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://github.com/hurabbas33201">
@@ -209,6 +209,6 @@ jobs:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,50:6a11cb,100:0d1117&height=120&section=footer" width="100%"/>
 
-**"Code. Learn. Improve. Repeat."** 🚀
+**"Code. Learn. Improve. Repeat."** 
 
 </div>
