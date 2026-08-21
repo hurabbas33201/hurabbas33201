@@ -171,33 +171,7 @@ jobs:
 
 <br/>
 
-## 🚀 Featured Projects
 
-<!-- 🔧 REPLACE: project titles, descriptions, and repo links below with your real projects -->
-
-<div align="center">
-
-<a href="https://github.com/hurabbas33201/REPO_NAME_1"> <!-- 🔧 REPLACE REPO_NAME_1 -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hurabbas33201&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&icon_color=6A11CB" />
-</a>
-<a href="https://github.com/hurabbas33201/REPO_NAME_2"> <!-- 🔧 REPLACE REPO_NAME_2 -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hurabbas33201&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&icon_color=6A11CB" />
-</a>
-
-<br/>
-
-<a href="https://github.com/hurabbas33201/REPO_NAME_3"> <!-- 🔧 REPLACE REPO_NAME_3 -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hurabbas33201&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&icon_color=6A11CB" />
-</a>
-<a href="https://github.com/hurabbas33201/REPO_NAME_4"> <!-- 🔧 REPLACE REPO_NAME_4 -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hurabbas33201&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&icon_color=6A11CB" />
-</a>
-
-</div>
-
-> 💡 **Tip:** Pinned repo cards only render correctly for **public** repositories that actually exist under your account. Replace `REPO_NAME_X` with your real repo names (e.g. `Student-Record-Management-System`).
-
-<br/>
 
 ## 🌟 Future Goals
 
