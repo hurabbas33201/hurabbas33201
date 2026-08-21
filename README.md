@@ -119,16 +119,7 @@ fun_fact: "I believe every bug is just a lesson wearing a disguise 🐛✨"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hurabbas33201&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=6a11cb&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurabbas33201&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=hurabbas33201&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=6A11CB&fire=2575FC&currStreakLabel=38BDF8" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hurabbas33201&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=6A11CB&point=2575FC" width="95%" />
+<img src="https://streak-stats.demolab.com/?user=hurabbas33201&theme=tokyonight&hide_border=true" />
 
 </div>
 
